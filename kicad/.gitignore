@@ -1,0 +1,12 @@
+*.gex_usb
+*.kicad_pro
+*.gbr
+*.drl
+*.gbrjob
+*.kicad_prl
+sym-lib-table
+*-backups
+*.zip
+fp-info-cache
+*.csv
+*.xml

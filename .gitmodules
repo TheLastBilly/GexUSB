@@ -1,0 +1,6 @@
+[submodule "kicad/KiCad-RP-Pico"]
+	path = kicad/KiCad-RP-Pico
+	url = https://github.com/ncarandini/KiCad-RP-Pico/
+[submodule "kicad/footprints/KiCad-RP-Pico"]
+	path = kicad/footprints/KiCad-RP-Pico
+	url = https://github.com/ncarandini/KiCad-RP-Pico/
