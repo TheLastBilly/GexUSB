@@ -1,5 +1,5 @@
 # GexUSB
-A remake of the USB Gecko
+A remake of the USB Gecko using a Raspberry PI PICO
 
 # Credits
 - [Yet another USB Gecko clone](https://www.gc-forever.com/forums/viewtopic.php?t=3089)
